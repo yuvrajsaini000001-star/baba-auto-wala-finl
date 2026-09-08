@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1038324926793",
+    "firebase_url": "https://rdp-wala-958d9-default-rtdb.firebaseio.com",
+    "project_id": "rdp-wala-958d9",
+    "storage_bucket": "rdp-wala-958d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038324926793:android:3203eaaa2aad62371df298",
+        "android_client_info": {
+          "package_name": "com.rdp.wala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bQP4t3Z2Sx2k9NVpbyldvvqdHBUTysc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
